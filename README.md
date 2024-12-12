@@ -1,1 +1,1 @@
-# sql_practise
+#diwali_sale_analyst
